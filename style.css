@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.footer{
+    background-color: 333333;
+    height: 250px;
+    width: 1350px;
+}
+
+.pesquisa{
+    color: gray;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 30px;
+    width: 1350px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.login{
+    background-color: orange;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-radius: 25px;
+}
+
+.banner{
+    background-image: url("./assets/image.png");
+    height: 700px;
+    width: 1800px;
+    border-radius: 25px;
+}
